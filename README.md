@@ -21,7 +21,7 @@ Welcome to the **Face Recognition-based Attendance System**! 🎉 This system au
 ## 🖥️ Installation & Setup  
 1️⃣ **Clone the repository** 🛠️  
 ```bash
-git clone https://github.com/your-repo/FaceRecognitionAttendance.git
+git clone https://github.com/Muskaanng/FaceRecognitionAttendance.git
 cd FaceRecognitionAttendance
 ```
 2️⃣ **Install dependencies** 📦  
